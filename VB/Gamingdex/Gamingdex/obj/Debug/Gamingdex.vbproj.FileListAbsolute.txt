@@ -1,0 +1,13 @@
+C:\Users\cabai999\Documents\SY22-23\VB\Gamingdex\Gamingdex\bin\Debug\Gamingdex.exe.config
+C:\Users\cabai999\Documents\SY22-23\VB\Gamingdex\Gamingdex\bin\Debug\Gamingdex.exe
+C:\Users\cabai999\Documents\SY22-23\VB\Gamingdex\Gamingdex\bin\Debug\Gamingdex.pdb
+C:\Users\cabai999\Documents\SY22-23\VB\Gamingdex\Gamingdex\bin\Debug\Gamingdex.xml
+C:\Users\cabai999\Documents\SY22-23\VB\Gamingdex\Gamingdex\obj\Debug\Gamingdex.vbproj.AssemblyReference.cache
+C:\Users\cabai999\Documents\SY22-23\VB\Gamingdex\Gamingdex\obj\Debug\Gamingdex.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cabai999\Documents\SY22-23\VB\Gamingdex\Gamingdex\obj\Debug\Gamingdex.Form1.resources
+C:\Users\cabai999\Documents\SY22-23\VB\Gamingdex\Gamingdex\obj\Debug\Gamingdex.Resources.resources
+C:\Users\cabai999\Documents\SY22-23\VB\Gamingdex\Gamingdex\obj\Debug\Gamingdex.vbproj.GenerateResource.cache
+C:\Users\cabai999\Documents\SY22-23\VB\Gamingdex\Gamingdex\obj\Debug\Gamingdex.vbproj.CoreCompileInputs.cache
+C:\Users\cabai999\Documents\SY22-23\VB\Gamingdex\Gamingdex\obj\Debug\Gamingdex.exe
+C:\Users\cabai999\Documents\SY22-23\VB\Gamingdex\Gamingdex\obj\Debug\Gamingdex.xml
+C:\Users\cabai999\Documents\SY22-23\VB\Gamingdex\Gamingdex\obj\Debug\Gamingdex.pdb

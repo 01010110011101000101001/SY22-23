@@ -121,28 +121,28 @@ Partial Class Form1
         '
         Me.namebox.Location = New System.Drawing.Point(486, 24)
         Me.namebox.Name = "namebox"
-        Me.namebox.Size = New System.Drawing.Size(100, 22)
+        Me.namebox.Size = New System.Drawing.Size(275, 22)
         Me.namebox.TabIndex = 15
         '
         'datebox
         '
         Me.datebox.Location = New System.Drawing.Point(486, 76)
         Me.datebox.Name = "datebox"
-        Me.datebox.Size = New System.Drawing.Size(100, 22)
+        Me.datebox.Size = New System.Drawing.Size(275, 22)
         Me.datebox.TabIndex = 16
         '
         'rankbox
         '
         Me.rankbox.Location = New System.Drawing.Point(486, 130)
         Me.rankbox.Name = "rankbox"
-        Me.rankbox.Size = New System.Drawing.Size(100, 22)
+        Me.rankbox.Size = New System.Drawing.Size(275, 22)
         Me.rankbox.TabIndex = 17
         '
         'purchasesbox
         '
         Me.purchasesbox.Location = New System.Drawing.Point(486, 188)
         Me.purchasesbox.Name = "purchasesbox"
-        Me.purchasesbox.Size = New System.Drawing.Size(100, 22)
+        Me.purchasesbox.Size = New System.Drawing.Size(275, 22)
         Me.purchasesbox.TabIndex = 18
         '
         'Button2

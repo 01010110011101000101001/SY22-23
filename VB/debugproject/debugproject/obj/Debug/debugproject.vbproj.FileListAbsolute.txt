@@ -1,0 +1,13 @@
+C:\Users\cabai999\Documents\SY22-23\VB\debugproject\debugproject\bin\Debug\debugproject.exe.config
+C:\Users\cabai999\Documents\SY22-23\VB\debugproject\debugproject\bin\Debug\debugproject.exe
+C:\Users\cabai999\Documents\SY22-23\VB\debugproject\debugproject\bin\Debug\debugproject.pdb
+C:\Users\cabai999\Documents\SY22-23\VB\debugproject\debugproject\bin\Debug\debugproject.xml
+C:\Users\cabai999\Documents\SY22-23\VB\debugproject\debugproject\obj\Debug\debugproject.vbproj.AssemblyReference.cache
+C:\Users\cabai999\Documents\SY22-23\VB\debugproject\debugproject\obj\Debug\debugproject.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cabai999\Documents\SY22-23\VB\debugproject\debugproject\obj\Debug\debugproject.Form1.resources
+C:\Users\cabai999\Documents\SY22-23\VB\debugproject\debugproject\obj\Debug\debugproject.Resources.resources
+C:\Users\cabai999\Documents\SY22-23\VB\debugproject\debugproject\obj\Debug\debugproject.vbproj.GenerateResource.cache
+C:\Users\cabai999\Documents\SY22-23\VB\debugproject\debugproject\obj\Debug\debugproject.vbproj.CoreCompileInputs.cache
+C:\Users\cabai999\Documents\SY22-23\VB\debugproject\debugproject\obj\Debug\debugproject.exe
+C:\Users\cabai999\Documents\SY22-23\VB\debugproject\debugproject\obj\Debug\debugproject.xml
+C:\Users\cabai999\Documents\SY22-23\VB\debugproject\debugproject\obj\Debug\debugproject.pdb
